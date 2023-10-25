@@ -58,6 +58,8 @@
 
 ## 6. Desain User Experience dan User Interface
  Halaman pertama : https://ibb.co/QDMbPYz
+ Halaman kedua : https://ibb.co/Qm9ML2h
+ Halaman ketiga : https://ibb.co/VgHSs8d
  
 
 
