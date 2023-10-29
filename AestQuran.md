@@ -1,14 +1,10 @@
 ## 1.1 Latar Belakang
 
-    AestQuran adalah sebuah aplikasi yang dibuat untuk mempermudah orang-orang agar dapat mengaji dimana pun dan kapan pun tanpa harus
-    membawa alquran dalam bentuk fisik. Pada aplikasi ini juga terdapat jadwal sholat untuk tiap-tiap daerah. Di buatnya jadwal sholat
-    ini untuk memudahkan orang yang sedang dalam perjalanan untuk melaksanakan sholat.
+   Shalat adalah ibadah yang diwajibkan kepada tiap-tiap muslim.Bgitu juga dengan Al-quran. Al-quran adalah kalam allah yang diturunkan kepada Rasulullah SAW . Setiap Muslim mempunyai kewajiban untuk membaca,mempelajari dan mengamalkannya. Namun banyak sekali beberapa muslim tidak mengerjakan kewajiban tersebut dengan alasan sedaang berada di jalan sehingga tidak tahu jam sholat di daerah tersebut,lupa membawa Al-quran, ribet jika harus membawa Al-quran dan tidak mendapat Al-quran, dan lain sebagainya. Oleh sebab itu, saya berniat untuk membuat aplikasi Al-quran digital untuk mempermudah para muslim melaksanakan kewajiban tersebut dimana pun dan kapan pun. 
     
-## 1.2 Deskripsi Teknologi Informasi
+## 1.2 Deskripsi Teknologi Informasi  
 
-  Teknologi Informasi (TI) adalah penggunaan komputer, perangkat keras, dan perangkat lunak untuk mengelola, menyimpan, dan menyebarkan
-  informasi. Pada ini melibatkan internet, perangkat komputer, aplikasi, serta infrastruktur jaringan yang memungkinkan pertukaran data dan 
-  komunikasi global.
+   AestQuran adalah sebuah aplikasi yang berisikan ayat-ayat suci Al-quran dan jadwal sholat untuk setiap daerah di indonesia,dengan desain yang kekinian sehingga pengguna dapat menggunakan aplikasi dengan nyaman dan tidak ketinggalan jaman. Ketika pengguna membuka aplikasi ini, terdapat dua tombol yaitu membaca Al-quran dan jadwal sholat, kemudian pilihlah salah satu tombol yang pengguna butuhkan,lalu search surah yang ingin dibacakan atau jika memilih tombol jadwal sholat maka search daerah yang ingin diketahui jadwal sholatnya. Setelah itu, pengguna akan melihat hasil yang dicarinya.
 
 ## 1.3 Branding
 
