@@ -40,7 +40,7 @@
 ## 5. Teknologi, Library, dan Framework
 
     Teknologi : - React Native
-                - MySQL
+                - SQL
 
     Library : -
 
