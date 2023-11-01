@@ -47,9 +47,10 @@
     Framework : -
 
 ## 6. Desain User Experience dan User Interface
- Halaman pertama : https://ibb.co/QDMbPYz
- Halaman kedua : https://ibb.co/Qm9ML2h
- Halaman ketiga : https://ibb.co/VgHSs8d
+ Halaman pertama : https://ibb.co/rcwfByP
+ Halaman kedua : https://ibb.co/Myzryqr
+ Halaman ketiga : https://ibb.co/dpQXdZB
+ Halaman keempat : https://ibb.co/3hsycm3
  
 
 
