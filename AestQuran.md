@@ -17,6 +17,12 @@
       - Orang yang ingin mengaji kapan pun dengan mudah
       - Para traveller yang sering keluar daerah
 
+   User experince theme:
+      - Mudah
+      - Sederhana
+      - Menarik
+      - Warna : Earth Tone / tortilla colour / peanut colour
+
 ## 2. User Story
 
   Sebagai | Saya ingin | Sehingga | Level Prioritas 
