@@ -32,19 +32,7 @@
 
 ## 3. Struktur Data
 
-```mermaid
-  erDiagram
-      PENGGUNA ||--O{ SURAH : MEMILIH SURAH
-      PENGGUNA || {
-          String username
-      }
-
-      SURAH {
-        String ayat
-      }
-
- ```
-
+[![](https://mermaid.ink/img/pako:eNpNjssKg0AMRX8lZK0_4KKg2F2hD905XQQnPqgzU8YMIuq_V3HTuwgh5wTugrXTjAk2g5vqjrxAmSsLe9Iq5VGewZN9QxxfIFtuLGAYpOvtZzut7EDr3fIKefVi0nB-_NNycitcq4enubctFHXHOgx8OsfACA17Q73emyzHRaF0bFhhsq-aGwqDKFR221UK4orZ1piIDxxh-GoSzntqPRlMGhpG3n52WUax?type=png)](https://mermaid.live/edit#pako:eNpNjssKg0AMRX8lZK0_4KKg2F2hD905XQQnPqgzU8YMIuq_V3HTuwgh5wTugrXTjAk2g5vqjrxAmSsLe9Iq5VGewZN9QxxfIFtuLGAYpOvtZzut7EDr3fIKefVi0nB-_NNycitcq4enubctFHXHOgx8OsfACA17Q73emyzHRaF0bFhhsq-aGwqDKFR221UK4orZ1piIDxxh-GoSzntqPRlMGhpG3n52WUax)
 ## 4. Struktur Data
 
     Database - MySQL --> Aplikasi - Java
