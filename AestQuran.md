@@ -32,10 +32,11 @@
   Pengguna | membaca al-quran | dapat membaca membaca al-quran dimanapun | ⭐⭐⭐⭐⭐
   Pengguna | membaca bahasa latinnya | dapat membaca Al-quran dengan benar bagi pemula| ⭐⭐⭐⭐⭐
   Pengguna | membaca artinya | dapat memahami arti ayat-ayat Al-quran |⭐⭐⭐⭐⭐
-  Admin | menuliskan bahasan latin | anak- anak atau pemula bisa membacanya dengan mudah | ⭐⭐⭐⭐
-  Admin | menampilkan audio per ayat | memudahkan anak-anak atau pemula untuk memahami baacaannya | ⭐⭐⭐⭐⭐
-  Admin | audio yang diberikan dari berbagai qori | pengguna bisa memilih yang menurutnya lebih dia sukai | ⭐⭐⭐⭐⭐
-  Admin | mencinptakan alarm sholat | memudahkan para muslim untuk mengikuti sholat berjamaah di masjid | ⭐⭐⭐⭐⭐
+  Owner | menuliskan bahasan latin | anak- anak atau pemula bisa membacanya dengan mudah | ⭐⭐⭐⭐
+  Owner | menampilkan audio per ayat | memudahkan anak-anak atau pemula untuk memahami baacaannya | ⭐⭐⭐⭐⭐
+  Owner | audio yang diberikan dari berbagai qori | pengguna bisa memilih yang menurutnya lebih dia sukai | ⭐⭐⭐⭐⭐
+  Owner | mencinptakan alarm sholat | memudahkan para muslim untuk mengikuti sholat berjamaah di masjid | ⭐⭐⭐⭐⭐
+  Owner | membuat alarm sholat | meminimalisir keterlambatan dalam melakukan sholat |⭐⭐⭐⭐⭐
   
    
   
