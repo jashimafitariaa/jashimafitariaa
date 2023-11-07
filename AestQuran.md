@@ -47,7 +47,7 @@
 [![](https://mermaid.ink/img/pako:eNqNkstOwzAQRX_F8rr-gSwRK8QC1G02t7Ebm_oRObaqKu2_M46j0hQKZJFIc8_ceWQm3gWpeMNVfDboI1zrGT31PSjf99njfBYiTOw19Mazhu3yARWokUV-QgfxniMK0_I3Y41u-Q_gC-QRVmx1sEjEDjM5czceC-yUK7IYKagJHo2FPsBXfq2WlPPEJPYJ8ZpxY79SvgrsSlWc5mZGpPw3TI3Pq5AZ_3COyRCbTP87nEsQWZogBhWXfpQbkGraem_LsGRGrBb1cz_urbTejofDg6Rv-pL5UeuPGlRfWEPAEYeUWeMU4eRx_S8P0eu0vqdF07gW0REX7i3Zzoy0rmrHN9yp6GAknepUYi1PWjnV8nJqUu2RbSrHdiEUOYXtyXe8STGrDc-DRFLLffNmDzuqyydy2gQL?type=png)](https://mermaid.live/edit#pako:eNqNkstOwzAQRX_F8rr-gSwRK8QC1G02t7Ebm_oRObaqKu2_M46j0hQKZJFIc8_ceWQm3gWpeMNVfDboI1zrGT31PSjf99njfBYiTOw19Mazhu3yARWokUV-QgfxniMK0_I3Y41u-Q_gC-QRVmx1sEjEDjM5czceC-yUK7IYKagJHo2FPsBXfq2WlPPEJPYJ8ZpxY79SvgrsSlWc5mZGpPw3TI3Pq5AZ_3COyRCbTP87nEsQWZogBhWXfpQbkGraem_LsGRGrBb1cz_urbTejofDg6Rv-pL5UeuPGlRfWEPAEYeUWeMU4eRx_S8P0eu0vqdF07gW0REX7i3Zzoy0rmrHN9yp6GAknepUYi1PWjnV8nJqUu2RbSrHdiEUOYXtyXe8STGrDc-DRFLLffNmDzuqyydy2gQL)
 ## 4. Struktur Data
 
-    Database - MySQL --> Aplikasi - Java
+    Database - SQL --> Aplikasi - Java
 
 ## 5. Teknologi, Library, dan Framework
 
