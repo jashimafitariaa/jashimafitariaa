@@ -28,19 +28,23 @@
   Sebagai | Saya ingin | Sehingga | Level Prioritas 
   ---|---|---|---
   Pengguna | melihat jadwal sholat | dapat mengetahui jadwal sholat daerah tersebut |⭐⭐⭐⭐⭐
+  Pengguna | membuat alarm sholat | mengurangi ketidaktepatan waktu dalam melaksanakan sholat|⭐⭐⭐⭐⭐
   Pengguna | membaca al-quran | dapat membaca membaca al-quran dimanapun | ⭐⭐⭐⭐⭐
   Pengguna | membaca bahasa latinnya | dapat membaca Al-quran dengan benar bagi pemula| ⭐⭐⭐⭐⭐
   Pengguna | membaca artinya | dapat memahami arti ayat-ayat Al-quran |⭐⭐⭐⭐⭐
   Admin | menuliskan bahasan latin | anak- anak atau pemula bisa membacanya dengan mudah | ⭐⭐⭐⭐
   Admin | menampilkan audio per ayat | memudahkan anak-anak atau pemula untuk memahami baacaannya | ⭐⭐⭐⭐⭐
   Admin | audio yang diberikan dari berbagai qori | pengguna bisa memilih yang menurutnya lebih dia sukai | ⭐⭐⭐⭐⭐
+  Admin | mencinptakan alarm sholat | memudahkan para muslim untuk mengikuti sholat berjamaah di masjid | ⭐⭐⭐⭐⭐
+  
+   
   
   
   
 
 ## 3. Struktur Data
 
-[![](https://mermaid.ink/img/pako:eNpNjssKg0AMRX8lZK0_4KKg2F2hD905XQQnPqgzU8YMIuq_V3HTuwgh5wTugrXTjAk2g5vqjrxAmSsLe9Iq5VGewZN9QxxfIFtuLGAYpOvtZzut7EDr3fIKefVi0nB-_NNycitcq4enubctFHXHOgx8OsfACA17Q73emyzHRaF0bFhhsq-aGwqDKFR221UK4orZ1piIDxxh-GoSzntqPRlMGhpG3n52WUax?type=png)](https://mermaid.live/edit#pako:eNpNjssKg0AMRX8lZK0_4KKg2F2hD905XQQnPqgzU8YMIuq_V3HTuwgh5wTugrXTjAk2g5vqjrxAmSsLe9Iq5VGewZN9QxxfIFtuLGAYpOvtZzut7EDr3fIKefVi0nB-_NNycitcq4enubctFHXHOgx8OsfACA17Q73emyzHRaF0bFhhsq-aGwqDKFR221UK4orZ1piIDxxh-GoSzntqPRlMGhpG3n52WUax)
+[![](https://mermaid.ink/img/pako:eNqNkstOwzAQRX_F8rr-gSwRK8QC1G02t7Ebm_oRObaqKu2_M46j0hQKZJFIc8_ceWQm3gWpeMNVfDboI1zrGT31PSjf99njfBYiTOw19Mazhu3yARWokUV-QgfxniMK0_I3Y41u-Q_gC-QRVmx1sEjEDjM5czceC-yUK7IYKagJHo2FPsBXfq2WlPPEJPYJ8ZpxY79SvgrsSlWc5mZGpPw3TI3Pq5AZ_3COyRCbTP87nEsQWZogBhWXfpQbkGraem_LsGRGrBb1cz_urbTejofDg6Rv-pL5UeuPGlRfWEPAEYeUWeMU4eRx_S8P0eu0vqdF07gW0REX7i3Zzoy0rmrHN9yp6GAknepUYi1PWjnV8nJqUu2RbSrHdiEUOYXtyXe8STGrDc-DRFLLffNmDzuqyydy2gQL?type=png)](https://mermaid.live/edit#pako:eNqNkstOwzAQRX_F8rr-gSwRK8QC1G02t7Ebm_oRObaqKu2_M46j0hQKZJFIc8_ceWQm3gWpeMNVfDboI1zrGT31PSjf99njfBYiTOw19Mazhu3yARWokUV-QgfxniMK0_I3Y41u-Q_gC-QRVmx1sEjEDjM5czceC-yUK7IYKagJHo2FPsBXfq2WlPPEJPYJ8ZpxY79SvgrsSlWc5mZGpPw3TI3Pq5AZ_3COyRCbTP87nEsQWZogBhWXfpQbkGraem_LsGRGrBb1cz_urbTejofDg6Rv-pL5UeuPGlRfWEPAEYeUWeMU4eRx_S8P0eu0vqdF07gW0REX7i3Zzoy0rmrHN9yp6GAknepUYi1PWjnV8nJqUu2RbSrHdiEUOYXtyXe8STGrDc-DRFLLffNmDzuqyydy2gQL)
 ## 4. Struktur Data
 
     Database - MySQL --> Aplikasi - Java
