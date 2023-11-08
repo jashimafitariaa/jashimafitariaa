@@ -64,6 +64,32 @@
  Halaman kedua : https://ibb.co/Myzryqr
  Halaman ketiga : https://ibb.co/dpQXdZB
  Halaman keempat : https://ibb.co/3hsycm3
+
+
+## 7. Demonstrasi Video
+
+  Video YouTube (belum)
+
+## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
+
+  Video YouTube (belum)
+
+## 9. Bagaimana algoritma, struktur data, dan bahasa pemrogramman berperan dalam produk teknologi informasimu?
+
+   Video YouTube (belum)
+
+## 10. Bagaimana metode pengembangan perangkat lunak/software development life cycle berperan dalam produk teknologi informasimu?
+
+   Video YouTube (belum)
+
+## 11. Bagaimana database/sistem basis data berperan dalam produk teknologi informasimu?
+
+   Video YouTube (belum)
+
+
+  
+
+ 
  
 
 
