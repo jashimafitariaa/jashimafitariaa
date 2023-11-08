@@ -4,7 +4,7 @@
     
 ## 1.2 Deskripsi Teknologi Informasi  
 
-   AestQuran adalah sebuah aplikasi yang berisikan ayat-ayat suci Al-quran dan jadwal sholat untuk setiap daerah di indonesia,dengan desain yang kekinian sehingga pengguna dapat menggunakan aplikasi dengan nyaman dan tidak ketinggalan jaman. Ketika pengguna membuka aplikasi ini, terdapat dua tombol yaitu membaca Al-quran dan jadwal sholat, kemudian pilihlah salah satu tombol yang pengguna butuhkan,lalu search surah yang ingin dibacakan atau jika memilih tombol jadwal sholat maka search daerah yang ingin diketahui jadwal sholatnya. Setelah itu, pengguna akan melihat hasil yang dicarinya.
+   AestQuran adalah sebuah aplikasi yang berisikan ayat-ayat suci Al-quran dan jadwal sholat untuk setiap daerah di indonesia,dengan desain yang kekinian sehingga pengguna dapat menggunakan aplikasi dengan nyaman dan tidak ketinggalan jaman. Ketika pengguna membuka aplikasi ini, terdapat dua tombol yaitu membaca Al-quran dan jadwal sholat, kemudian pilihlah salah satu tombol yang pengguna butuhkan,lalu search surah yang ingin dibacakan, kemudian pengguna dapat membaca ayat, latin, arti dan audio perayat dari surah yang dicari, atau jika memilih tombol jadwal sholat maka search daerah yang ingin diketahui jadwal sholatnya. Setelah itu, pengguna akan melihat hasil yang dicarinya, kemudian pengguna dapat membuat alarm sholat sesuai waktu daerah yang dipilih.
 
 ## 1.3 Branding
 
