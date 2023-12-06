@@ -37,6 +37,8 @@
   Owner | audio yang diberikan dari berbagai qori | pengguna bisa memilih yang menurutnya lebih dia sukai | ⭐⭐⭐⭐⭐
   Owner | mencinptakan alarm sholat | memudahkan para muslim untuk mengikuti sholat berjamaah di masjid | ⭐⭐⭐⭐⭐
   Owner | membuat alarm sholat | meminimalisir keterlambatan dalam melakukan sholat |⭐⭐⭐⭐⭐
+  owner | mempermudah pengguna | pengguna senang untuk mengaji dan sholat | ⭐⭐⭐⭐⭐
+  Owner | mempermudah pengguna | pengguna tidak merasa bahwa ibadah itu ribet | ⭐⭐⭐⭐⭐
   
    
   
